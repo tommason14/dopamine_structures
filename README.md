@@ -1,3 +1,3 @@
 # dopamine_structures
 
-Structures to accompany the paper
+Equilibrated structures to accompany the paper
